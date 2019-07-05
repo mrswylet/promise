@@ -10,7 +10,7 @@ function getFeedback(service) {
 				} else {
 					const data = response.data;
 					debugger;
-					const data_sort = quickSortArrOjb(data, 'date');
+					const data_sort = quickSortArrObj(data, 'date');
 
 					const users_id_list = getArrListForObjKeys(data, 'user_id');
 
@@ -70,5 +70,5 @@ function quickSortArrObj(arr_obj, key) {
 		}
 	});
 
-	return quickSortArrOjb(previous, key).concat(arr_obj[reference_index], quickSortArrOjb(next, key));
+	return quickSortArrObj(previous, key).concat(arr_obj[reference_index], quickSortArrObj(next, key));
 }
