@@ -1,0 +1,62 @@
+[
+	{
+		"id": 1,
+		"user_id": "0788-6520-0000",
+		"text": "Sed vulputate massa sapien, in pharetra dolor vulputate non. ",
+		"date": "1435690800000"
+	},
+	{
+		"id": 2,
+		"user_id": "2370-6360-0000",
+		"text": "Nam lacus lectus, luctus nec erat ac, bibendum vestibulum mauris.",
+		"date": "1435950000000"
+	},
+	{
+		"id": 3,
+		"user_id": "2686-8600-0000",
+		"text": "Suspendisse urna nisl, fermentum eget tellus sit amet, aliquam sollicitudin neque.",
+		"date": "1436382000000"
+	},
+	{
+		"id": 4,
+		"user_id": "1104-8760-0000",
+		"text": "Fusce et rhoncus metus.",
+		"date": "1436468400000"
+	},
+	{
+		"id": 5,
+		"user_id": "3003-0840-0000",
+		"text": "Etiam at eleifend purus, in vestibulum lectus. Sed quam nunc, dictum at sem sit amet, mollis lobortis sem.",
+		"date": "1436122800000"
+	},
+	{
+		"id": 6,
+		"user_id": "1737-3240-0000",
+		"text": "Phasellus a orci non augue tincidunt gravida. Vestibulum turpis nibh, sagittis in sem quis, lacinia venenatis lacus.",
+		"date": "1435863600000"
+	},
+	{
+		"id": 7,
+		"user_id": "1104-8760-0000",
+		"text": "Nullam semper congue elementum.",
+		"date": "1436209200000"
+	},
+	{
+		"id": 8,
+		"user_id": "1421-1000-0000",
+		"text": "Curabitur consectetur ullamcorper suscipit. Vestibulum rhoncus ultricies dapibus.",
+		"date": "1436295600000"
+	},
+	{
+		"id": 9,
+		"user_id": "0788-6520-0000",
+		"text": "Cras et eleifend sem. Mauris iaculis placerat augue in consequat.",
+		"date": "1436036400000"
+	},
+	{
+		"id": 10,
+		"user_id": "0471-5640-0000",
+		"text": "Nulla elementum dictum eros ut sollicitudin.",
+		"date": "1435777200000"
+	}
+]
